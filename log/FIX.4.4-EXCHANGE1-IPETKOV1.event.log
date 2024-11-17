@@ -1,0 +1,50 @@
+20241117-00:51:21: Session FIX.4.4:EXCHANGE1->IPETKOV1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20241117-00:51:21: Created session: FIX.4.4:EXCHANGE1->IPETKOV1
+20241117-00:51:28: Accepting session FIX.4.4:EXCHANGE1->IPETKOV1 from /86.26.114.223:59320
+20241117-00:51:28: Acceptor heartbeat set to 30 seconds
+20241117-00:51:28: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20241117-00:51:28: Received logon
+20241117-00:51:28: Responding to Logon request
+20241117-00:52:47: Disconnecting: Encountered END_OF_STREAM
+20241117-00:53:08: Accepting session FIX.4.4:EXCHANGE1->IPETKOV1 from /86.26.114.223:59595
+20241117-00:53:08: Acceptor heartbeat set to 30 seconds
+20241117-00:53:08: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20241117-00:53:08: Received logon
+20241117-00:53:08: Responding to Logon request
+20241117-00:54:05: Disconnecting: Encountered END_OF_STREAM
+20241117-00:55:34: Accepting session FIX.4.4:EXCHANGE1->IPETKOV1 from /86.26.114.223:60201
+20241117-00:55:34: Acceptor heartbeat set to 30 seconds
+20241117-00:55:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20241117-00:55:34: Received logon
+20241117-00:55:34: Responding to Logon request
+20241117-00:58:44: Disconnecting: Encountered END_OF_STREAM
+20241117-00:58:55: Accepting session FIX.4.4:EXCHANGE1->IPETKOV1 from /86.26.114.223:60392
+20241117-00:58:55: Acceptor heartbeat set to 30 seconds
+20241117-00:58:55: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20241117-00:58:55: Received logon
+20241117-00:58:55: Responding to Logon request
+20241117-00:58:58: Rejecting invalid message: quickfix.FieldException: Required tag missing, field=60: 8=FIX.4.49=10635=D34=249=IPETKOV152=20241117-00:58:58.00056=EXCHANGE111=ORDER1234538=10040=244=15054=155=AAPL10=222
+20241117-00:58:58: Reject sent for Message 2: Required tag missing, field=60:60
+20241117-00:59:04: Received logout request
+20241117-00:59:04: Sent logout response
+20241117-00:59:04: Disconnecting: Received logout request
+20241117-01:03:17: Accepting session FIX.4.4:EXCHANGE1->IPETKOV1 from /86.26.114.223:60848
+20241117-01:03:17: Acceptor heartbeat set to 30 seconds
+20241117-01:03:17: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20241117-01:03:17: Received logon
+20241117-01:03:17: Responding to Logon request
+20241117-01:03:34: Disconnecting: Encountered END_OF_STREAM
+20241117-01:03:40: Accepting session FIX.4.4:EXCHANGE1->IPETKOV1 from /86.26.114.223:60977
+20241117-01:03:40: Acceptor heartbeat set to 30 seconds
+20241117-01:03:40: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20241117-01:03:40: Received logon
+20241117-01:03:40: Responding to Logon request
+20241117-01:04:46: Disconnecting: Encountered END_OF_STREAM
+20241117-01:04:49: Accepting session FIX.4.4:EXCHANGE1->IPETKOV1 from /86.26.114.223:61150
+20241117-01:04:49: Acceptor heartbeat set to 30 seconds
+20241117-01:04:49: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20241117-01:04:49: Received logon
+20241117-01:04:49: Responding to Logon request
+20241117-01:14:01: Initiated logout request
+20241117-01:14:01: Received logout response
+20241117-01:14:01: Disconnecting: Received logout response
